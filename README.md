@@ -10,4 +10,4 @@
 ----
 실행영상
 
-<img src = "https://user-images.githubusercontent.com/112225610/222104890-f809c69c-4048-4ccd-afed-3e2c9ca5ae03.gif" width = "30%" height = "50%">
+<img src = "https://user-images.githubusercontent.com/112225610/222130963-9ed4e65d-752e-4492-938c-d358d63c49c6.gif" width = "30%" height = "50%">
